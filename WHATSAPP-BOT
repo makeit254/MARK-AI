@@ -1,0 +1,6 @@
+whatsapp-bot-java/
+├── src/
+│   └── WhatsAppBot.java
+├── README.md
+├── .gitignore
+└── pom.xml (optional, if using Maven)
